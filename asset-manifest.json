@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/official-website/static/css/main.fd466f7c.css",
+    "main.js": "/official-website/static/js/main.a9c71bd3.js",
+    "static/js/453.dae7bcc0.chunk.js": "/official-website/static/js/453.dae7bcc0.chunk.js",
+    "static/media/ENEMIES_AT_GATE.png": "/official-website/static/media/ENEMIES_AT_GATE.7ebcece8183f482e7b69.png",
+    "static/media/ECONOMY.png": "/official-website/static/media/ECONOMY.34a410c8b823dc1fc90a.png",
+    "static/media/TECH.png": "/official-website/static/media/TECH.b1ac9ec5707c8386115f.png",
+    "static/media/FREEDOM.png": "/official-website/static/media/FREEDOM.47931c7647dea6facc30.png",
+    "static/media/HEADER_LOGO.png": "/official-website/static/media/HEADER_LOGO.3e39936567227f554020.png",
+    "static/media/polishdane.webp": "/official-website/static/media/polishdane.f0fa84849487bf5cfbe3.webp",
+    "index.html": "/official-website/index.html",
+    "main.fd466f7c.css.map": "/official-website/static/css/main.fd466f7c.css.map",
+    "main.a9c71bd3.js.map": "/official-website/static/js/main.a9c71bd3.js.map",
+    "453.dae7bcc0.chunk.js.map": "/official-website/static/js/453.dae7bcc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd466f7c.css",
+    "static/js/main.a9c71bd3.js"
+  ]
+}
